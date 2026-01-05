@@ -1,0 +1,1080 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CW01 Gracious Unsib",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — MudWing Dragon Child",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/1_CW01 Gracious Unsib.png"
+			}
+		},
+		{
+			"name": "CW02 Honey Farmer",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — SilkWing Dragon Peasant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/2_CW02 Honey Farmer.png"
+			}
+		},
+		{
+			"name": "CW03 Scarlet's Skirmisher",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — SkyWing Dragon Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/3_CW03 Scarlet's Skirmisher.png"
+			}
+		},
+		{
+			"name": "CW04 Castle Guard",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — SkyWing Dragon Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/4_CW04 Castle Guard.png"
+			}
+		},
+		{
+			"name": "CW05 HiveWing Honeyseller",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — HiveWing Dragon Citizen",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/5_CW05 HiveWing Honeyseller.png"
+			}
+		},
+		{
+			"name": "CW06 Sibling Healer",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — MudWing Dragon Druid",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/6_CW06 Sibling Healer.png"
+			}
+		},
+		{
+			"name": "CW07 Arena Entertainer",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — SkyWing Dragon Bard",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/7_CW07 Arena Entertainer.png"
+			}
+		},
+		{
+			"name": "CW08 IceWing Artificer",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — IceWing Dragon Artificer",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/8_CW08 IceWing Artificer.png"
+			}
+		},
+		{
+			"name": "CW09 Break the Spell",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/9_CW09 Break the Spell.png"
+			}
+		},
+		{
+			"name": "CW10 Moonstone Bracelet",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Artifact Enchantment — Aura",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/10_CW10 Moonstone Bracelet.png"
+			}
+		},
+		{
+			"name": "CW11 Reenchant",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/11_CW11 Reenchant.png"
+			}
+		},
+		{
+			"name": "CW12 Strike First",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/12_CW12 Strike First.png"
+			}
+		},
+		{
+			"name": "CW14 Call for Aid",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/13_CW14 Call for Aid.png"
+			}
+		},
+		{
+			"name": "CW15 Protective Earrings",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/14_CW15 Protective Earrings.png"
+			}
+		},
+		{
+			"name": "CU01 Hatchery Guard",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — RainWing Dragon Soldier",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/15_CU01 Hatchery Guard.png"
+			}
+		},
+		{
+			"name": "CU02 Third Circle Storyteller",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — IceWing Dragon Bard",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/16_CU02 Third Circle Storyteller.png"
+			}
+		},
+		{
+			"name": "CU03 Summer Palace Guard",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — SeaWing Dragon Soldier",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/17_CU03 Summer Palace Guard.png"
+			}
+		},
+		{
+			"name": "CU04 Palace Advisor",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — SeaWing Dragon Advisor",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/18_CU04 Palace Advisor.png"
+			}
+		},
+		{
+			"name": "CU05 First Moon Seer",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — NightWing Dragon Shaman",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/19_CU05 First Moon Seer.png"
+			}
+		},
+		{
+			"name": "CU06 Enchanted Dagger",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Artifact Creature — Construct",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/20_CU06 Enchanted Dagger.png"
+			}
+		},
+		{
+			"name": "CU07 NightWing Strategist",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — NightWing Dragon Rogue",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/21_CU07 NightWing Strategist.png"
+			}
+		},
+		{
+			"name": "CU08 Border Watch",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — RainWing Dragon Advisor",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/22_CU08 Border Watch.png"
+			}
+		},
+		{
+			"name": "CU09 Arcane Denial",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/23_CU09 Arcane Denial.png"
+			}
+		},
+		{
+			"name": "CU10 Lure of Paradise",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/24_CU10 Lure of Paradise.png"
+			}
+		},
+		{
+			"name": "CU11 Prophesize",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/25_CU11 Prophesize.png"
+			}
+		},
+		{
+			"name": "CU12 Coordinate",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/26_CU12 Coordinate.png"
+			}
+		},
+		{
+			"name": "CU13 Consign to Memory",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/27_CU13 Consign to Memory.png"
+			}
+		},
+		{
+			"name": "CU14 Divination",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/28_CU14 Divination.png"
+			}
+		},
+		{
+			"name": "CB01 Dragonmancer Apprentice",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/29_CB01 Dragonmancer Apprentice.png"
+			}
+		},
+		{
+			"name": "CB02 Indoctrinated Student",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — SilkWing Dragon Peasant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/30_CB02 Indoctrinated Student.png"
+			}
+		},
+		{
+			"name": "CB03 Vulture's Assassin",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — SandWing Dragon Assassin",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/31_CB03 Vulture's Assassin.png"
+			}
+		},
+		{
+			"name": "CB04 Island Scavenger",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — NightWing Dragon Peasant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/32_CB04 Island Scavenger.png"
+			}
+		},
+		{
+			"name": "CB05 Village Treasurer",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/33_CB05 Village Treasurer.png"
+			}
+		},
+		{
+			"name": "CB06 Outclaw Peacekeeper",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — SandWing Dragon Rogue",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/34_CB06 Outclaw Peacekeeper.png"
+			}
+		},
+		{
+			"name": "CB07 Lady of the Hive",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — HiveWing Dragon Noble",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/35_CB07 Lady of the Hive.png"
+			}
+		},
+		{
+			"name": "CB08 Tunnel Guard",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — NightWing Dragon Soldier",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/36_CB08 Tunnel Guard.png"
+			}
+		},
+		{
+			"name": "CB09 Revealing Paper",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Enchantment Artifact",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/37_CB09 Revealing Paper.png"
+			}
+		},
+		{
+			"name": "CB10 Deadly Dispute",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/38_CB10 Deadly Dispute.png"
+			}
+		},
+		{
+			"name": "CB11 Sudden Strike",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/39_CB11 Sudden Strike.png"
+			}
+		},
+		{
+			"name": "CB12 False Visions",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/40_CB12 False Visions.png"
+			}
+		},
+		{
+			"name": "CB13 Drop",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/41_CB13 Drop.png"
+			}
+		},
+		{
+			"name": "CB14 Murder",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/42_CB14 Murder.png"
+			}
+		},
+		{
+			"name": "CR01 Scarlet's Frontrunner",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — SkyWing Dragon Soldier",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/43_CR01 Scarlet's Frontrunner.png"
+			}
+		},
+		{
+			"name": "CR02 Arena Firebreather",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — SkyWing Dragon Warrior",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/44_CR02 Arena Firebreather.png"
+			}
+		},
+		{
+			"name": "CR03 Raider of Valor",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/45_CR03 Raider of Valor.png"
+			}
+		},
+		{
+			"name": "CR04 Arena Announcer",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — SkyWing Dragon Bard",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/46_CR04 Arena Announcer.png"
+			}
+		},
+		{
+			"name": "CR05 Flamesilk Supporter",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — SilkWing Dragon Rebel",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/47_CR05 Flamesilk Supporter.png"
+			}
+		},
+		{
+			"name": "CR06 Summer Palace Entertainer",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — SeaWing Dragon Bard",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/48_CR06 Summer Palace Entertainer.png"
+			}
+		},
+		{
+			"name": "CR07 Indiscriminate Looters",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/49_CR07 Indiscriminate Looters.png"
+			}
+		},
+		{
+			"name": "CR08 Hive Burner",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — LeafWing Dragon Rebel",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/50_CR08 Hive Burner.png"
+			}
+		},
+		{
+			"name": "CR09 Raze the Village",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/51_CR09 Raze the Village.png"
+			}
+		},
+		{
+			"name": "CR10 Careless Looting",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/52_CR10 Careless Looting.png"
+			}
+		},
+		{
+			"name": "CR11 Rallying Chorus",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/53_CR11 Rallying Chorus.png"
+			}
+		},
+		{
+			"name": "CR12 Abrade",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/54_CR12 Abrade.png"
+			}
+		},
+		{
+			"name": "CR13 Enchanted Spear",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment Artifact — Equipment",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/55_CR13 Enchanted Spear.png"
+			}
+		},
+		{
+			"name": "CR14 Demand Answers",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/56_CR14 Demand Answers.png"
+			}
+		},
+		{
+			"name": "CG01 Novice Leafspeaker",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — LeafWing Dragon Druid",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/57_CG01 Novice Leafspeaker.png"
+			}
+		},
+		{
+			"name": "CG02 Diamond Delta Herbalist",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — MudWing Dragon Shaman",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/58_CG02 Diamond Delta Herbalist.png"
+			}
+		},
+		{
+			"name": "CG03 Rainforest Medic",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — RainWing Dragon Druid",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/59_CG03 Rainforest Medic.png"
+			}
+		},
+		{
+			"name": "CG04 Burn's Warrior",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — SandWing Dragon Rogue",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/60_CG04 Burn's Warrior.png"
+			}
+		},
+		{
+			"name": "CG05 Blaze's Minder",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — SandWing Dragon Mercenary",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/61_CG05 Blaze's Minder.png"
+			}
+		},
+		{
+			"name": "CG06 Reluctant Warrior",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — RainWing Dragon Warrior",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/62_CG06 Reluctant Warrior.png"
+			}
+		},
+		{
+			"name": "CG07 PoisonWing Speaker",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — LeafWing Dragon Warrior",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/63_CG07 PoisonWing Speaker.png"
+			}
+		},
+		{
+			"name": "CG08 Bigwings",
+			"rarity": "special",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — MudWing Dragon Peasant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/64_CG08 Bigwings.png"
+			}
+		},
+		{
+			"name": "CG09 Enter the Delta",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/65_CG09 Enter the Delta.png"
+			}
+		},
+		{
+			"name": "CG10 Venom Strike",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/66_CG10 Venom Strike.png"
+			}
+		},
+		{
+			"name": "CG11 Outclaw Ambush",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/67_CG11 Outclaw Ambush.png"
+			}
+		},
+		{
+			"name": "CG12 Return to Nature",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/68_CG12 Return to Nature.png"
+			}
+		},
+		{
+			"name": "CG13 Declaration of Peace",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/69_CG13 Declaration of Peace.png"
+			}
+		},
+		{
+			"name": "CG14 Rampant Growth",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/70_CG14 Rampant Growth.png"
+			}
+		},
+		{
+			"name": "CG15 Jungle Training",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/71_CG15 Jungle Training.png"
+			}
+		},
+		{
+			"name": "CX01 Queen's Archivist",
+			"rarity": "special",
+			"mana_cost": "{2}{W/U}",
+			"type": "Creature — IceWing Dragon Guard",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/72_CX01 Queen's Archivist.png"
+			}
+		},
+		{
+			"name": "CX02 Hive Master",
+			"rarity": "special",
+			"mana_cost": "{2}{W/B}",
+			"type": "Creature — HiveWing Dragon Noble",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/73_CX02 Hive Master.png"
+			}
+		},
+		{
+			"name": "CX03 Sibling Shieldbrother",
+			"rarity": "special",
+			"mana_cost": "{1}{G/W}{G/W}",
+			"type": "Creature — MudWing Dragon Soldier",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/74_CX03 Sibling Shieldbrother.png"
+			}
+		},
+		{
+			"name": "CX04 Frontline Supporter",
+			"rarity": "special",
+			"mana_cost": "{2}{R/W}",
+			"type": "Creature — SkyWing Dragon Soldier",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/75_CX04 Frontline Supporter.png"
+			}
+		},
+		{
+			"name": "CX05 Ashen Scavenger",
+			"rarity": "special",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Creature — NightWing Dragon Rogue",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/76_CX05 Ashen Scavenger.png"
+			}
+		},
+		{
+			"name": "CX06 Ceremony Proctor",
+			"rarity": "special",
+			"mana_cost": "{2}{U/R}{U/R}",
+			"type": "Creature — SeaWing Dragon Noble",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/77_CX06 Ceremony Proctor.png"
+			}
+		},
+		{
+			"name": "CX07 Fruit Gatherer",
+			"rarity": "special",
+			"mana_cost": "{G/U}",
+			"type": "Creature — RainWing Dragon",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/78_CX07 Fruit Gatherer.png"
+			}
+		},
+		{
+			"name": "CX08 Faithless Looter",
+			"rarity": "special",
+			"mana_cost": "{2}{B/R}",
+			"type": "Creature — Human Rebel",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/79_CX08 Faithless Looter.png"
+			}
+		},
+		{
+			"name": "CX09 Outclaw Watcher",
+			"rarity": "special",
+			"mana_cost": "{3}{B/G}",
+			"type": "Creature — SandWing Assassin",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/80_CX09 Outclaw Watcher.png"
+			}
+		},
+		{
+			"name": "CX10 Flamesilk Escapee",
+			"rarity": "special",
+			"mana_cost": "{2}{R/G}{R/G}",
+			"type": "Creature — SilkWing Dragon Rebel",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/81_CX10 Flamesilk Escapee.png"
+			}
+		},
+		{
+			"name": "CA01 Bracelet of Strength",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Enchantment Artifact — Equipment",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/82_CA01 Bracelet of Strength.png"
+			}
+		},
+		{
+			"name": "CA02 The Lazulite Dragon",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/83_CA02 The Lazulite Dragon.png"
+			}
+		},
+		{
+			"name": "BG Dual Scorpion Den",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/84_BG Dual Scorpion Den.png"
+			}
+		},
+		{
+			"name": "BR Dual Indestructible City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/85_BR Dual Indestructible City.png"
+			}
+		},
+		{
+			"name": "Evolving Wilds",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/86_Evolving Wilds.png"
+			}
+		},
+		{
+			"name": "Possibility",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/87_Possibility.png"
+			}
+		},
+		{
+			"name": "RG Dual Poison Jungle",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/88_RG Dual Poison Jungle.png"
+			}
+		},
+		{
+			"name": "UB Dual The Lost City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/89_UB Dual The Lost City.png"
+			}
+		},
+		{
+			"name": "UG Dual Banyan Tree",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/90_UG Dual Banyan Tree.png"
+			}
+		},
+		{
+			"name": "UR Dual Bay of a Thousand Scales",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/91_UR Dual Bay of a Thousand Scales.png"
+			}
+		},
+		{
+			"name": "WB Dual Sinkhole",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/92_WB Dual Sinkhole.png"
+			}
+		},
+		{
+			"name": "WG Dual Diamond Spray Delta",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/93_WG Dual Diamond Spray Delta.png"
+			}
+		},
+		{
+			"name": "WR Dual Claws of the Clouds Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/94_WR Dual Claws of the Clouds Mountain.png"
+			}
+		},
+		{
+			"name": "WU Dual Diamond Caves",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/95_WU Dual Diamond Caves.png"
+			}
+		},
+		{
+			"name": "SilkWing Token",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — SilkWing Dragon",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/3_SilkWing Token.png"
+			}
+		},
+		{
+			"name": "MudWing Token",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — MudWing Dragon",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/1_MudWing Token.png"
+			}
+		},
+		{
+			"name": "MudWing Token",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — SilkWing Dragon",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://elibromax314.github.io/sets/wof-files/img/2_MudWing Token.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 CW01 Gracious Unsib
+	1 CW02 Honey Farmer
+	1 CW03 Scarlet's Skirmisher
+	1 CW04 Castle Guard
+	1 CW05 HiveWing Honeyseller
+	1 CW06 Sibling Healer
+	1 CW07 Arena Entertainer
+	1 CW08 IceWing Artificer
+	1 CW09 Break the Spell
+	1 CW10 Moonstone Bracelet
+	1 CW11 Reenchant
+	1 CW12 Strike First
+	1 CW14 Call for Aid
+	1 CW15 Protective Earrings
+	1 CU01 Hatchery Guard
+	1 CU02 Third Circle Storyteller
+	1 CU03 Summer Palace Guard
+	1 CU04 Palace Advisor
+	1 CU05 First Moon Seer
+	1 CU06 Enchanted Dagger
+	1 CU07 NightWing Strategist
+	1 CU08 Border Watch
+	1 CU09 Arcane Denial
+	1 CU10 Lure of Paradise
+	1 CU11 Prophesize
+	1 CU12 Coordinate
+	1 CU13 Consign to Memory
+	1 CU14 Divination
+	1 CB01 Dragonmancer Apprentice
+	1 CB02 Indoctrinated Student
+	1 CB03 Vulture's Assassin
+	1 CB04 Island Scavenger
+	1 CB05 Village Treasurer
+	1 CB06 Outclaw Peacekeeper
+	1 CB07 Lady of the Hive
+	1 CB08 Tunnel Guard
+	1 CB09 Revealing Paper
+	1 CB10 Deadly Dispute
+	1 CB11 Sudden Strike
+	1 CB12 False Visions
+	1 CB13 Drop
+	1 CB14 Murder
+	1 CR01 Scarlet's Frontrunner
+	1 CR02 Arena Firebreather
+	1 CR03 Raider of Valor
+	1 CR04 Arena Announcer
+	1 CR05 Flamesilk Supporter
+	1 CR06 Summer Palace Entertainer
+	1 CR07 Indiscriminate Looters
+	1 CR08 Hive Burner
+	1 CR09 Raze the Village
+	1 CR10 Careless Looting
+	1 CR11 Rallying Chorus
+	1 CR12 Abrade
+	1 CR13 Enchanted Spear
+	1 CR14 Demand Answers
+	1 CG01 Novice Leafspeaker
+	1 CG02 Diamond Delta Herbalist
+	1 CG03 Rainforest Medic
+	1 CG04 Burn's Warrior
+	1 CG05 Blaze's Minder
+	1 CG06 Reluctant Warrior
+	1 CG07 PoisonWing Speaker
+	1 CG08 Bigwings
+	1 CG09 Enter the Delta
+	1 CG10 Venom Strike
+	1 CG11 Outclaw Ambush
+	1 CG12 Return to Nature
+	1 CG13 Declaration of Peace
+	1 CG14 Rampant Growth
+	1 CG15 Jungle Training
+	1 CX01 Queen's Archivist
+	1 CX02 Hive Master
+	1 CX03 Sibling Shieldbrother
+	1 CX04 Frontline Supporter
+	1 CX05 Ashen Scavenger
+	1 CX06 Ceremony Proctor
+	1 CX07 Fruit Gatherer
+	1 CX08 Faithless Looter
+	1 CX09 Outclaw Watcher
+	1 CX10 Flamesilk Escapee
+	1 CA01 Bracelet of Strength
+	1 CA02 The Lazulite Dragon
+	1 BG Dual Scorpion Den
+	1 BR Dual Indestructible City
+	1 Evolving Wilds
+	1 Possibility
+	1 RG Dual Poison Jungle
+	1 UB Dual The Lost City
+	1 UG Dual Banyan Tree
+	1 UR Dual Bay of a Thousand Scales
+	1 WB Dual Sinkhole
+	1 WG Dual Diamond Spray Delta
+	1 WR Dual Claws of the Clouds Mountain
+	1 WU Dual Diamond Caves

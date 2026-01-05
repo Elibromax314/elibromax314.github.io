@@ -1,4 +1,206 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+CW01 Gracious Unsib
+
+CW02 Honey Farmer
+
+CW03 Scarlet's Skirmisher
+
+CW04 Castle Guard
+
+CW05 HiveWing Honeyseller
+
+CW06 Sibling Healer
+
+CW07 Arena Entertainer
+
+CW08 IceWing Artificer
+
+CW09 Break the Spell
+
+CW10 Moonstone Bracelet
+
+CW11 Reenchant
+
+CW12 Strike First
+
+CW14 Call for Aid
+
+CW15 Protective Earrings
+
+CU01 Hatchery Guard
+
+CU02 Third Circle Storyteller
+
+CU03 Summer Palace Guard
+
+CU04 Palace Advisor
+
+CU05 First Moon Seer
+
+CU06 Enchanted Dagger
+
+CU07 NightWing Strategist
+
+CU08 Border Watch
+
+CU09 Arcane Denial
+
+CU10 Lure of Paradise
+
+CU11 Prophesize
+
+CU12 Coordinate
+
+CU13 Consign to Memory
+
+CU14 Divination
+
+CB01 Dragonmancer Apprentice
+
+CB02 Indoctrinated Student
+
+CB03 Vulture's Assassin
+
+CB04 Island Scavenger
+
+CB05 Village Treasurer
+
+CB06 Outclaw Peacekeeper
+
+CB07 Lady of the Hive
+
+CB08 Tunnel Guard
+
+CB09 Revealing Paper
+
+CB10 Deadly Dispute
+
+CB11 Sudden Strike
+
+CB12 False Visions
+
+CB13 Drop
+
+CB14 Murder
+
+CR01 Scarlet's Frontrunner
+
+CR02 Arena Firebreather
+
+CR03 Raider of Valor
+
+CR04 Arena Announcer
+
+CR05 Flamesilk Supporter
+
+CR06 Summer Palace Entertainer
+
+CR07 Indiscriminate Looters
+
+CR08 Hive Burner
+
+CR09 Raze the Village
+
+CR10 Careless Looting
+
+CR11 Rallying Chorus
+
+CR12 Abrade
+
+CR13 Enchanted Spear
+
+CR14 Demand Answers
+
+CG01 Novice Leafspeaker
+
+CG02 Diamond Delta Herbalist
+
+CG03 Rainforest Medic
+
+CG04 Burn's Warrior
+
+CG05 Blaze's Minder
+
+CG06 Reluctant Warrior
+
+CG07 PoisonWing Speaker
+
+CG08 Bigwings
+
+CG09 Enter the Delta
+
+CG10 Venom Strike
+
+CG11 Outclaw Ambush
+
+CG12 Return to Nature
+
+CG13 Declaration of Peace
+
+CG14 Rampant Growth
+
+CG15 Jungle Training
+
+CX01 Queen's Archivist
+
+CX02 Hive Master
+
+CX03 Sibling Shieldbrother
+
+CX04 Frontline Supporter
+
+CX05 Ashen Scavenger
+
+CX06 Ceremony Proctor
+
+CX07 Fruit Gatherer
+
+CX08 Faithless Looter
+
+CX09 Outclaw Watcher
+
+CX10 Flamesilk Escapee
+
+CA01 Bracelet of Strength
+
+CA02 The Lazulite Dragon
+
+BG Dual Scorpion Den
+
+BR Dual Indestructible City
+
+Evolving Wilds
+
+Possibility
+
+RG Dual Poison Jungle
+
+UB Dual The Lost City
+
+UG Dual Banyan Tree
+
+UR Dual Bay of a Thousand Scales
+
+WB Dual Sinkhole
+
+WG Dual Diamond Spray Delta
+
+WR Dual Claws of the Clouds Mountain
+
+WU Dual Diamond Caves
+
+SilkWing Token
+
+MudWing Token
+
+MudWing Token
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
