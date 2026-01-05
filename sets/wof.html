@@ -1,7 +1,7 @@
 ﻿<html>
 <head>
   <title>Wings of Fire Only Commons</title>
-  <link rel="icon" type="image/x-icon" href="/sets/wof-files/icon.png">
+  <link rel="icon" type="image/x-icon" href="/sets/WOF-files/icon.png">
   <link rel="stylesheet" href="/resources/mana.css">
   <link rel="stylesheet" href="/resources/header.css">
   <link rel="stylesheet" href="/resources/card-text.css">
@@ -312,7 +312,7 @@
 	<div class="banner">
 		<div class="banner-container">
 			<div class="set-banner" id="set-banner">
-				<img class="set-logo" src="/sets/wof-files/icon.png">
+				<img class="set-logo" src="/sets/WOF-files/icon.png">
 				<div class="banner-text">
 					<div class="set-title">Wings of Fire Only Commons</div>
 					<div class="extras-container">			<a onclick="randomSetCard()">I'm Feeling Lucky</a>
@@ -373,7 +373,7 @@
 				card_list_arrayified = card_list.cards;
 
 
-			await fetch('/sets/wof-files/wof-draft.txt')
+			await fetch('/sets/WOF-files/WOF-draft.txt')
 				.then(response => response.text())
 				.then(text => {
 					draft_file = text.replace(/},\n\t]/g, '}\n\t]');
@@ -383,7 +383,7 @@
       
 			for (let i = 0; i < card_list_arrayified.length; i++)
 			{
-				if (card_list_arrayified[i].set == "wof")
+				if (card_list_arrayified[i].set == "WOF")
 				{
 					set_list_arrayified.push(card_list_arrayified[i]);
 				}
@@ -1193,7 +1193,7 @@
 			let set_card_list = [];
 			for (card of card_list_arrayified)
 			{
-				if (card.set == "wof")
+				if (card.set == "WOF")
 				{
 					set_card_list.push(card);
 				}
